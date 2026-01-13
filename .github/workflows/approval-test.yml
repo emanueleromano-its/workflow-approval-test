@@ -51,4 +51,6 @@ jobs:
 
       - name: Run a one-line script
         run: echo World!
-
+      
+      - name: Run a one-line script
+        run: echo Mammata!
