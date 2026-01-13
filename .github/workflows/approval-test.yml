@@ -25,6 +25,7 @@ jobs:
   world:
     runs-on: ubuntu-latest
     needs: hello
+    environment: 'Proprio prod'
     name: World!
 
     steps:
